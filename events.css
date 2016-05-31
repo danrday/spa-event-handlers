@@ -1,0 +1,29 @@
+#list-section {
+  font-weight: bold;
+}
+
+.article-section {
+  font-weight: bold;
+  font-style: italic;
+}
+
+#buttons button{
+  display: block;
+}
+
+.border {
+  border: solid 2px red;
+}
+
+.color {
+  color: blue;
+}
+
+.bigFont {
+  font-size: 4em;
+}
+
+.roundBorder {
+  border: solid 2px red;
+  border-radius: 50%;
+}
